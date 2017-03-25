@@ -1,0 +1,2 @@
+# HateSpeechFilter
+CrimsonHacks Project
