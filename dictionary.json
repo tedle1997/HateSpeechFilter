@@ -1,0 +1,183 @@
+data = {"dictionary":[
+  {"black":{
+      "pos":"low",
+      "cat":"African American"
+      }
+  },
+
+    {"canuck":{
+      "pos":"medium",
+      "cat":"Canadian"
+      }
+    },
+
+    {"colored":{
+      "pos":"low",
+      "cat":"African American"
+      }
+    },
+
+    {"coloured":{
+      "pos":"low",
+      "cat":"African American"
+      }
+    },
+
+    {"coolie":{
+      "pos":"medium",
+      "cat":"Asian"
+      }
+    },
+    {"coon":{
+      "pos":"medium",
+      "cat":"African American"
+      }
+    },
+    {"cracker":{
+      "pos":"medium",
+      "cat":"Caucasian American"
+      }
+    },
+    {"dago":{
+      "pos":"high",
+      "cat":"Latino"
+      }
+    },
+    {"gipsy":{
+      "pos":"high",
+      "cat":"Romany"
+      }
+    },
+    {"gook":{
+      "pos":"high",
+      "cat":"Asian"
+      }
+    },
+    {"gringo":{
+      "pos":"high",
+      "cat":"Caucasian American"
+      }
+    },
+    {"half-breed":{
+      "pos":"high",
+      "cat":"Mixed Race"
+      }
+    },
+    {"half-caste":{
+      "pos":"high",
+      "cat":"Mixed Race"
+      }
+    },
+
+    {"haole":{
+      "pos":"medium",
+      "cat":"Asian"
+      }
+    },
+    {"honky":{
+      "pos":"high",
+      "cat":"Caucasian"}
+    },
+    {"injun":{
+      "pos":"high",
+      "cat":"Native American"}
+    },
+    {"jock":{
+      "pos":"medium",
+      "cat":"Scottish"}
+    },
+
+    {"kaffir":{
+      "pos":"medium",
+      "cat":"Asian"}
+    },
+    {"kraut":{
+      "pos":"high",
+      "cat":"German"}
+    },
+    {"mick":{
+      "pos":"medium",
+      "cat":"Irish"}
+    },
+    {"mulatto":{
+      "pos":"high",
+      "cat":"Mixed Race"}
+    },
+    {"negress":{
+      "pos":"high",
+      "cat":"African American"}
+    },
+    {"negro":{
+      "pos":"high",
+      "cat":"African American"}
+    },
+    {"nigger":{
+      "pos":"high",
+      "cat":"African American"}
+    },
+    {"paddy":{
+      "pos":"medium",
+      "cat":"Irish"}
+    },
+    {"pakeha":{
+      "pos":"medium",
+      "cat":"New Zealander"}
+    },
+    {"paleface":{
+      "pos":"high",
+      "cat":"Caucasian"}
+    },
+    {"pickaninny":{
+      "pos":"medium",
+      "cat":"African American"}
+    },
+    {"pygmy":{
+      "pos":"medium",
+      "cat":"Short People"}
+    },
+    {"red-indian":{
+      "pos":"high",
+      "cat":"Native American"}
+    },
+    {"redskin":{
+      "pos":"high",
+      "cat":"Native American"}
+    },
+    {"savage":{
+      "pos":"medium",
+      "cat":"General Insult"}
+    },
+    {"taffy":{
+      "pos":"medium",
+      "cat":"Wales"}
+    },
+    {"uncle-tom":{
+      "pos":"high",
+      "cat":"African American"}
+    },
+    {"wetback":{
+      "pos":"meadium",
+      "cat":"Mexico"}
+    },
+    {"whitey":{
+      "pos":"medium",
+      "cat":"Caucasian"}
+    },
+    {"yank":{
+      "pos":"high",
+      "cat":"American"}
+    },
+    {"yankee":{
+      "pos":"low",
+      "cat":"American"}
+    },
+    {"yid":{
+      "pos":"high",
+      "cat":"Jewish"}
+    },
+    {"waspy":{
+      "pos":"medium",
+      "cat":"African American"}
+    }
+  ]
+}

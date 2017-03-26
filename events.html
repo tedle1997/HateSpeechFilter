@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Offensive Words Filter</title>
+  <script src="jquery-3.2.0.js">
+
+  </script>
+  <script type="text/javascript">
+    var dict =[
+      "black", "canuck","colored","coloured","coolie","coon",
+        "cracker",
+        "dago",
+        "gipsy",
+        "gook",
+        "gringo",
+        "half-breed",
+        "half-caste",
+        "haole",
+        "injun",
+      "jock",
+        "kaffir",
+      "kraut",
+          "mick",
+          "mulatto",
+          "negress",
+          "nigger",
+          "paddy",
+          "paleface",
+          "pygmy",
+          "redskin"]
+
+
+    var counter = 0;
+    console.log(dict[0]);
+    function checkOffensive(word){
+      console.log("reach checkOffensive, word: " + word);
+      var flag = false;
+      for(var i = 0; i < dict.length;i++){
+        if(dict[i] == word)flag = true;
+      }
+      if(flag){
+        console.log("The word " + word + "has an"
+        + " offensive meaning");
+      }
+
+    }
+
+    window.onload = function(){
+      document.getElementById("t").addEventListener("keyup", keyisup, false);
+    }
+
+    function keyisup(){
+      document.getElementById("upVal").innerHTML = document.getElementById("t").value;
+      checkOffensive(document.getElementById("t").value);
+    }
+
+  </script>
+
+</head>
+
+<body>
+Enter the input: <input type="text" id="t" /> <br />
+<table border="1px">
+  <col width="100">
+  <col width="100">
+
+  <tr><th>Event</th><th>Value</th></tr>
+  <tr><td>Keyup</td><td id="upVal"></td></tr>
+</table>
+</body>
+</html>
