@@ -1,4 +1,9 @@
 data = {"dictionary":[
+  {"beaner":{
+      "pos":"medium",
+      "cat":"Mexico"
+      }
+  },
   {"black":{
       "pos":"low",
       "cat":"African American"
@@ -10,7 +15,11 @@ data = {"dictionary":[
       "cat":"Canadian"
       }
     },
-
+    {"chinc":{
+      "pos":"high",
+      "cat":"Asian"
+      }
+    },
     {"colored":{
       "pos":"low",
       "cat":"African American"
@@ -86,10 +95,13 @@ data = {"dictionary":[
       "pos":"medium",
       "cat":"Scottish"}
     },
-
     {"kaffir":{
-      "pos":"medium",
-      "cat":"Asian"}
+      "pos":"high",
+      "cat":"African"}
+    },
+    {"kike":{
+      "pos":"high",
+      "cat":"Jewish"}
     },
     {"kraut":{
       "pos":"high",
@@ -98,6 +110,10 @@ data = {"dictionary":[
     {"mick":{
       "pos":"medium",
       "cat":"Irish"}
+    },
+    {"moolie":{
+      "pos":"high",
+      "cat":"African"}
     },
     {"mulatto":{
       "pos":"high",
@@ -131,6 +147,10 @@ data = {"dictionary":[
       "pos":"medium",
       "cat":"African American"}
     },
+    {"pisshead":{
+      "pos":"medium",
+      "cat":"Indian"}
+    },
     {"pygmy":{
       "pos":"medium",
       "cat":"Short People"}
@@ -143,6 +163,14 @@ data = {"dictionary":[
       "pos":"high",
       "cat":"Native American"}
     },
+    {"retard":{
+      "pos":"high",
+      "cat":"Disabled"}
+    },
+    {"sand-nigger":{
+      "pos":"high",
+      "cat":"Arabic"}
+    },
     {"savage":{
       "pos":"medium",
       "cat":"General Insult"}
@@ -150,6 +178,14 @@ data = {"dictionary":[
     {"taffy":{
       "pos":"medium",
       "cat":"Wales"}
+    },
+    {"tard":{
+      "pos":"high",
+      "cat":"Disabled"}
+    },
+    {"towelhead":{
+      "pos":"high",
+      "cat":"Arabic"}
     },
     {"uncle-tom":{
       "pos":"high",
